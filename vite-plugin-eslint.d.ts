@@ -1,2 +1,2 @@
 // vite-plugin-eslint.d.ts
-declare module 'vite-plugin-eslint';
+import module 'vite-plugin-eslint';
